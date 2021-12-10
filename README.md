@@ -3,7 +3,7 @@
 ## About
 OpenCore EFI Folder for the GA-Z170X-Gaming-5 mainboard. For conservational purposes only. I no longer have this board, so don't ask for support!
 
-## EFI Details:
+## EFI Details
 
 |Feature|Details|
 |-------|:----------|
