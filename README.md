@@ -17,5 +17,5 @@ OpenCore EFI Folder for the GA-Z170X-Gaming-5 mainboard. For conservational purp
 ![CPU_HPETON](https://user-images.githubusercontent.com/76865553/145651562-f9aa522d-acbe-4779-8edb-11ea0d476e5a.png)
 https://browser.geekbench.com/v5/cpu/3352110
 
-## Reources
+## Resources
 Mainboard Support: https://www.gigabyte.com/Motherboard/GA-Z170X-Gaming-5-rev-10#ov
