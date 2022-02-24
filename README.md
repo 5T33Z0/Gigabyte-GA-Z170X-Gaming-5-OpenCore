@@ -1,7 +1,7 @@
 # Gigabyte-GA-Z170X-Gaming-5-OpenCore
 
 ## About
-OpenCore EFI Folder for the GA-Z170X-Gaming-5 mainboard. For archival purposes only. I no longer have this mainboard, so don't ask for support!
+OpenCore EFI Folder for the GA-Z170X-Gaming-5 mainboard. For archival purposes only. I no longer have this mainboard, so don't ask for support - I won't reply!
 
 ## System and EFI Details
 
