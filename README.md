@@ -7,7 +7,7 @@ OpenCore EFI Folder for the GA-Z170X-Gaming-5 mainboard. For archival purposes o
 
 |Feature|Details|
 |-------|:----------|
-**OpenCore**|0.7.7
+**OpenCore**|0.8.2
 **CPU**|Intel Core i7 6700K
 **BIOS**|F22f
 **SMBIOS**|iMac17,1
