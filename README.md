@@ -5,17 +5,17 @@ OpenCore EFI Folder for the GA-Z170X-Gaming-5 mainboard. For archival purposes o
 
 ## System and EFI Details
 
-|Feature|Details|
-|-------|:----------|
-**OpenCore**|0.8.2
-**CPU**|Intel Core i7 6700K
-**BIOS**|F22f
-**SMBIOS**|iMac17,1
-**GPU** config|dGPU + iGPU (for computational tasks) 
+| Config     |Details    |
+|------------|:----------|
+**OpenCore** |0.8.3
+**CPU**      |Intel Core i7 6700K
+**BIOS**     |F22f
+**SMBIOS**   |iMac17,1
+**Graphics** |dGPU + iGPU (headless) 
 
 ## Benchmark
 ![CPU_HPETON](https://user-images.githubusercontent.com/76865553/145651562-f9aa522d-acbe-4779-8edb-11ea0d476e5a.png)
-https://browser.geekbench.com/v5/cpu/3352110
+[**Results**](https://browser.geekbench.com/v5/cpu/3352110)
 
 ## Resources
 **Install Guide**: [Install macOS Sierra on GA-Z170X-Gaming 5](https://www.insanelymac.com/forum/topic/324138-guide-install-macos-sierra-10125-on-ga-z170x-gaming-5/)</br>
