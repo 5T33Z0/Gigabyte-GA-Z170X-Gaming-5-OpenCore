@@ -18,5 +18,5 @@ OpenCore EFI Folder for the GA-Z170X-Gaming-5 mainboard. For archival purposes o
 https://browser.geekbench.com/v5/cpu/3352110
 
 ## Resources
-Guide Thread: https://www.insanelymac.com/forum/topic/324138-guide-install-macos-sierra-10125-on-ga-z170x-gaming-5/</br>
-Mainboard Support: https://www.gigabyte.com/Motherboard/GA-Z170X-Gaming-5-rev-10#ov
+**Install Guide**: [Install macOS Sierra on GA-Z170X-Gaming 5](https://www.insanelymac.com/forum/topic/324138-guide-install-macos-sierra-10125-on-ga-z170x-gaming-5/)</br>
+**Mainboard Support**: https://www.gigabyte.com/Motherboard/GA-Z170X-Gaming-5-rev-10#ov
